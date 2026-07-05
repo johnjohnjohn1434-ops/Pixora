@@ -1,0 +1,6 @@
+{
+  "name": "Pixora",
+  "description": "Share Moments. Build Community. A modern social media platform for sharing posts, reels, stories, and chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
